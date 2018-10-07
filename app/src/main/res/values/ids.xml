@@ -4,4 +4,5 @@
     <item name="name" type="id" />
     <item name="description" type="id" />
     <item name="club_list" type="id" />
+    <item name="club_testing" type="id" />
 </resources>
